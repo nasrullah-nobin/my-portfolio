@@ -87,3 +87,38 @@ margin-bottom: 20px;
     display: flex;
     gap: 30px;
 }
+#about {
+    /* border: 1px solid red; */
+    width: 71%;
+    max-width: 1140px;
+    margin: 130px auto;
+    padding: 131px 156px;
+    background-color: #FFF8F3;
+    text-align: center;
+}
+#about .section-heading h3 {
+    font-size: 35px;
+    font-weight: bold;
+    color: #181818;
+    margin-bottom: 30px;
+}
+#about .section-heading p {
+    font-size: 18px;
+    color: #757575;
+    margin-bottom: 30px;
+    line-height: 30px;
+}
+#about .about-information {
+    display: flex;
+    justify-content: space-around;
+}
+#about .about-information p {
+    font-size: 20px;
+    line-height: 30px;
+    color: #757575;
+}
+#about .about-information h4 {
+    font-size: 20px;
+    font-weight: bold;
+    color: #474747;
+}
